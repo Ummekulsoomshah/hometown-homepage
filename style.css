@@ -1,0 +1,108 @@
+body{
+    font-family: 'Lato', sans-serif;
+    color: rgb(33, 33, 68);
+    margin: 0px;
+    padding: 0px;
+}
+.main{
+    background-image: url("karachi.jpg");
+    background-size: cover;
+    color: white;
+    
+    height: 600px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    text-align: center;
+    justify-content: center;
+    display: block;
+    padding-top: 200px;
+}
+#hero-h1{
+    width: 225px;
+    margin: 0px auto 10px;
+    padding: 2px 0px;
+    color: #FFF;
+    background: #523d45;
+    border-radius: 10px;
+}
+.main h2 {
+    width: 512px;
+    margin: 0px auto;
+    padding: 5px 0px;
+    font-size: 19px;
+    color: #FFF;
+    background: #A36A54;
+    border-radius: 10px;
+}
+.fav{
+    width: 250px;
+    padding-left: 50px;
+    padding-right: 40px;
+    margin-top: 0px;
+    padding-top: 0px;
+    
+
+}
+.img1{
+    width: 200px;
+    border-radius: 50%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    justify-content: center;
+    margin-left: 30px;
+}
+.fav-title{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    padding-top: 0px;
+    margin-top: 0px;
+}
+.outline{
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 20px;
+
+}
+.favourits{
+    display: flex;
+    justify-content: space-between;
+}
+.mid{
+    background-color: rgb(227, 227, 248);
+    margin-top: 0px;
+    /* border: 5px solid black; */
+    padding: 40px 0px;
+
+}
+h3,p{
+    text-align: center;
+}
+
+/* body{
+    margin: 20px;
+} */
+.avatar{
+    width: 200px;
+}
+.card{
+    margin-top: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin:0px auto;
+    width: 600px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    border-bottom:7px solid #d8cefe;
+    background-color: #ddebf8;
+    color: #2b2839;
+    text-shadow: 2px 2px 4px #000000;
+    border-radius: 5px;
+    margin-top: 100px;
+    margin-bottom: 60px;
+    
+}
+
+.utility{
+    border: 1px dotted blue;
+}
